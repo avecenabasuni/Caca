@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="id">
+    <head>
+        <meta charset="UTF-8">
+        <title>Buat Caca Cantik!</title>
+        <h1>Hai Caca Cantik!</h1>
+        <h1>Namanya Raifadila Bariza Erwadi itu cantik banget!</h1>
+        <img src="https://media3.giphy.com/media/KztT2c4u8mYYUiMKdJ/200.webp?cid=ecf05e475xuq55av9i0j4d4brspkma0465nmlfynd8cyar7z&rid=200.webp&ct=g">
+    </head>
+    <body>
+        <h1>Caca setuju ga kalo Caca cantik?</h1>
+        <button id='btn_setuju' onclick='alert("CACA CANTIK BANGET!!! AKU JUGA SETUJU!!!")'>SETUJU</button>
+        <button id='btn_nggak' onclick='nggak(this)' style='position:absolute'>NGGAK</button>
+    </body>
+    <footer>
+        <br>
+        <br>
+        <img src="123.jpg">
+    </footer>
+    <script>
+        function nggak(id){
+            var SETUJU = document.getElementById('btn_setuju');
+            var i = Math.floor(Math.random()*300)+1;
+            var j = Math.floor(Math.random()*100)+SETUJU.offsetTop;
+            id.style.left = i+'px';
+            id.style.top = j+'px';
+        }
+    </script>
+</html>
