@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	background-color: #FF5733;
 	
 }
 .peach-after {
@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #c3b1e1;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #c3b1e1;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #c3b1e1;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #c3b1e1;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #c3b1e1;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #c3b1e1;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #c3b1e1;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #c3b1e1;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #c3b1e1;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #c3b1e1;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #c3b1e1;
 	}
 }
 
